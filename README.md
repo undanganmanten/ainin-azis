@@ -1,2 +1,2 @@
 # ainin-azis
-see the prototype <a href="http://undanganmanten.my.id/zulfa-fian" target="_blank">here</a>
+see the prototype <a href="http://undanganmanten.my.id/ainin-azis" target="_blank">here</a>
