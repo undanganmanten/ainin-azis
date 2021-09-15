@@ -571,6 +571,7 @@ img{
   color: black;
   font-weight: bolder;
   z-index: 100;
+  padding-top: 10px;
 }
 
 .resepsi p,
